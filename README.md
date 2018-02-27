@@ -1,2 +1,2 @@
 # Hello
-demo foe web.
+demo for web.
